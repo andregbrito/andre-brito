@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm André Brito</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Portifólio]()
+- 🔭 I’m currently working on [Portifólio](https://github.com/andregbrito/Portifolio)
 
 - 🌱 I’m currently learning **ReactJs**
 
