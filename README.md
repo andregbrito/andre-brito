@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Cork Church](https://github.com/andregbrito/Church-Form)
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **ReactJs+TypeScript**
 
 - 💬 Ask me about **react, sass.**
 
