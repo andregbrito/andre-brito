@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm André Brito</h1>
 <h3 align="center">A Brazilian developer living in Ireland</h3>
 
-- 🔭 I’m currently working on [To do list](https://github.com/andregbrito/to-do-list)
+- 🔭 I’m currently working on [Cork Church](https://github.com/andregbrito/Church Form)
 
 - 🌱 I’m currently learning **ReactJs**
 
