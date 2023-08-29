@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm André Brito</h1>
 <h3 align="center">A Brazilian developer living in Ireland</h3>
 
-- 🔭 I’m currently working on [Portifolio]https://github.com/andregbrito/Portifolio)
-
 - 🌱 I’m currently learning **ReactJs+TypeScript**
 
 - 💬 Ask me about **react, sass.**
